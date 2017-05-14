@@ -1,6 +1,6 @@
-# Kernalization IDS
+# Armadillo IDS
 
-This is the official repository for the Kernalization IDS. 
+This is the official repository for the Armadillo IDS. 
 
 The goal of the IDS is to autonomously protect the user's system against online threats. The IDS will learn from previous hacks and from the subsequent securing of the system and search places that modern, fingerprint-based IDS's cannot. 
 
