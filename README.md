@@ -19,3 +19,8 @@ README to better represent our goals.
   - Name?
 
 3) Assigning roles 
+
+4) Getting an idea for the testing bed.
+  - Do we need a remote vulnerable box to test this on?
+  - What kind of software do we need?
+  - Dedicated hardware?
